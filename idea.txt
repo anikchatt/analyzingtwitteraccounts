@@ -1,0 +1,9 @@
+Project Idea: 
+
+Create a script that can analyze a twitter account(s) tweets. 
+Will look at all their tweets for a certain period of time,
+monthly, yearly, daily, etc and will give you stats on the 
+tweets that got the most replies, favorites, retweets, etc..
+
+Will give you insights onto the topics a person tweets about and the 
+type of engagement they get from it...can centralize 
